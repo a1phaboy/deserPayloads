@@ -1,6 +1,7 @@
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
-public class calc {
+
+public class Calc {
     static{
         String winCalc = "calc.exe";
         String MacCalc = "open /System/Applications/Calculator.app";
